@@ -1,7 +1,3 @@
-# Bank-Churn
-This project utilizes machine learning techniques to predict customer churn in the banking sector, helping institutions identify and retain at-risk clients. Through data analysis and visualization, it reveals key factors influencing customer attrition.
-
-Sure! Here's an interesting and concise README file for your project, focused on the bank churn prediction model:
 
 ---
 
@@ -45,4 +41,4 @@ Thanks to the contributors of the datasets and the open-source community for the
 
 ---
 
-Feel free to modify any section according to your preferences!
+
